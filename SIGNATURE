@@ -1,0 +1,67 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.73.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+SHA1 05e31879243b241f6d5cbe6e7885ffc047046c71 Build.PL
+SHA1 71f819e134e3749b6c56d536db91e28cce15aa77 Changes
+SHA1 05d624781c53a34baa3b41de2899d17a39b8b46c LICENSE
+SHA1 5ebed4d14536a877780485df9ccbb3a24fa0c115 MANIFEST
+SHA1 8b5b226bd41e45758e40c8981722cc3072ebf4e9 META.json
+SHA1 cd848179c6e6f96bc5af92e223459ef4540ff351 dist.ini
+SHA1 a86a5dbeb25bb63ed96ad842b764f795c018dc2e eg/write_journal.pl
+SHA1 834f1086bc640d6e63cae621cf81570b8aa39c2b inc/Devel/AssertOS.pm
+SHA1 8413c4404023a1dd6e299c945b04c6e5c182c04f inc/Devel/AssertOS/Linux.pm
+SHA1 3aa3e8014a21f2b0de894713db4f1d3b83fac04b inc/Devel/CheckOS.pm
+SHA1 43216e761bbd89faa98be1e1c8ca3a9d70e3eb7c inc/My/Builder.pm
+SHA1 7ff91ce01b0bf95f5b73c80d5c22eb28c40e8f6e lib/Linux/Systemd/Journal/Write.pm
+SHA1 0a97c2d1cfb034095c1258b4678e9c4c95bbbfc8 lib/Linux/Systemd/Journal/Write.xs
+SHA1 e3094e32340a9a0dcb90d91b77d66e61cbf7fa14 perlcriticrc
+SHA1 73fc733e453994f61db4938f5fa6a5563aec04bc perltidyrc
+SHA1 985d9ded8d8ed7e344a09e52b1402e878e91da28 t/00-check-deps.t
+SHA1 72b9a7ca19e661554d47a3262c6cb17a4aa63c19 t/00-compile.t
+SHA1 352f29384f9a0fc17885158c8c8d0f31d007b3f2 t/00-report-prereqs.t
+SHA1 f3f5f6fdfd9f45a97941bc8bfb1d0185bef50fa1 t/01-main.t
+SHA1 10c5a3591188c086df31f9ef04f64d894acdd164 tidyall.ini
+SHA1 7e4d1c8bc515002ab83b969964b3e874b37b7908 weaver.ini
+SHA1 f242e380d897f0430a668ea3f2938df75c0bef55 xt/author/test-eol.t
+SHA1 199b3d456352d36185a3f28aaf40efb0475dacab xt/release/cpan-changes.t
+SHA1 7b52b909acf6cd52733f8f226f92147ed76a2717 xt/release/meta-json.t
+SHA1 bae663945a4380ca95a6ba5d8f5e42d2946e0629 xt/release/minimum-version.t
+SHA1 c6c3c9f7fe12058b4771449dff874b1c450c982c xt/release/mojibake.t
+SHA1 f8daf94575d8b327b91d5c8eaad8682d5f459c48 xt/release/no-tabs.t
+SHA1 a6d8370909ec0e0755d4bd691eb81d722cf94430 xt/release/pod-coverage.t
+SHA1 4146b75714ac972231d12d4fb93e764817a5eb0b xt/release/pod-linkcheck.t
+SHA1 296928dbbcaffd1514ccc9b77a1e6e03cfe9b068 xt/release/pod-syntax.t
+SHA1 29865e58a16b5465bb7efbd399ad16ba72f50695 xt/release/portability.t
+SHA1 fd1fa776fca35fc8f1bdd24ee3fbaa1eca755a44 xt/release/synopsis.t
+SHA1 bbcd59d081d9940af5d43337ae85458075933829 xt/release/test-version.t
+SHA1 d1fe7d94b3edc7847eb187d4ee41f66e19cf8907 xt/release/unused-vars.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2.0.22 (GNU/Linux)
+
+iQIcBAEBCgAGBQJTb+PdAAoJELCDA8+ONCk7TnoQALY8K5HHq5I5pbn6a/3m+QbH
+oInK7YHKZDfCBk7Um57ONDOd6ukUt+gZlTlBuNk7sKTVpFwmKlxwGYxk/t3augG9
+4zaqC6ZA4jD4NiKUxpZo553njb9OxpAgw88vkpLm2Yt16k2IuXdNk4tfqVip/lpq
+OR031PzVKC4nJC035I58Rit/b+whWkoYyGt6z+qn9+9hbw77wynlTcFYLnzELIzC
+U4ijWWYnWrPo/bqPjGHg7w6eWAXT8zadUzZ7wwbNpmjXmmyp23IvVeb+dLG4KARd
+CKYkYuWKN0fCaUN5/YbbrMsAACFqFSObChb9FnR22eHKX51sHTXpySmF0qXE7VJq
+hCnLo8rnyTTZ3GjjCE4Fbsg94ng9B5P8dCHlNNSZrhPK3aKv9x8OAatogXUKU9HW
+Ktu1/cwG7qGHWizGtJDw+Gwv+Tv+7EAv/ZmS+IFWiBb4GonNRKD6SNLJWLoO/ayV
+6Qkxz3V8TN+BAdGWbhrXE1tD9LpcevpB0aHxRCza95HN+tFQMR5jDmUEXwzapsJo
+t9/Uc+hID7TeMFpdk8NZvvP0U10ZedoEEt7Q5oQks4foXsupGtBwfv6+dVv5NyFH
+nTVloQMc1vgnMVNLXIpn/eOmxg1zvzxqkuBHQnlxSOu6Vxm0A0GAcNqKqkqhxNUX
+K92nyGI7FzP9W3E8v1+h
+=oA5H
+-----END PGP SIGNATURE-----
